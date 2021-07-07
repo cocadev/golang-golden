@@ -1,4 +1,4 @@
-# Guide of Golang 2
+# Guide of Golang
 
 `export SWAGGERAPIPATH=/Volumes/D/Sources/StarterKit/webservice`
 `swagger -apiPackage="api/v1" -mainApiFile="api/route.go" -format="asciidoc"`
